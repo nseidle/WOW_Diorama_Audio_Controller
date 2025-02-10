@@ -1,0 +1,26 @@
+2024-10-24 20:07:56,067 - cammer_logger - INFO - Running CAMmer
+2024-10-24 20:07:56,067 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2024-10-24 20:07:56,069 - cammer_logger - INFO - CAMMER START: 2024-10-24T20:07:56.069991
+2024-10-24 20:07:57,400 - cammer_logger - INFO - 
+START: 2024-10-24T20:07:56.069991
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTL
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-F_Cu.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTL
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBL
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-B_Cu.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBL
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTP
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-F_Paste.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTP
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBP
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-B_Paste.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBP
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTO
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-F_Silkscreen.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTO
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBO
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-B_Silkscreen.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBO
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTS
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-F_Mask.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GTS
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBS
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-B_Mask.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GBS
+Deleting existing C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GKO
+Renaming C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller-Edge_Cuts.gbr to C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\Diorama_Controller.GKO
+Drill report: C:\Users\natha\Dropbox\Projects\WOW\WOW_Diorama_Audio_Controller\Hardware2\drill_report.rpt
+
+2024-10-24 20:07:58,414 - cammer_logger - INFO - CAMmer complete
