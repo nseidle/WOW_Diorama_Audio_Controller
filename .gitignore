@@ -2,10 +2,23 @@
 Thumbs.db
 ehthumbs.db
 
+#KiCad Backup files
+*.kicad_prl
+fp-info-cache
+sym-lib-table
+~*.lck
+*-bak
+*-backups
+*-cache*
+*-bak*
+_autosave*
+\#auto_saved_files\#
+
 #Eagle Backup files
 *.s#?
 *.b#?
 *.l#?
+*.lck
 
 # Folder config file
 Desktop.ini
@@ -31,7 +44,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
