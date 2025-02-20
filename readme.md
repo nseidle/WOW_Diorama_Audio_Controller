@@ -23,7 +23,7 @@ Materials used:
 -------------------
 The phone handset is cut and modified with a 3D printed part:
 
-<script src="https://embed.github.com/view/3d/nseidle/WOW_Diorama_Audio_Controller/main/stl/WOWPhoneAttachment.stl"></script>
+<script src="https://embed.github.com/view/3d/nseidle/WOW_Diorama_Audio_Controller/main/Models/WOWPhoneAttachment.stl"></script>
 
 License Information
 -------------------
