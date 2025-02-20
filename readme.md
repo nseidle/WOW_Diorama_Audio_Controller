@@ -21,11 +21,7 @@ Materials used:
 
 3D Printed Parts
 -------------------
-The phone handset is cut and modified with a 3D printed part:
-
-<script src="https://embed.github.com/view/3d/nseidle/WOW_Diorama_Audio_Controller/main/Models/WOWPhoneAttachment.stl"></script>
-
-<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+The phone handset is cut and modified with a [3D printed part](https://github.com/nseidle/WOW_Diorama_Audio_Controller/blob/main/Models/WOWPhoneAttachment.stl).
 
 License Information
 -------------------
