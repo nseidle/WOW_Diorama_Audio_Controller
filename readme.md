@@ -23,6 +23,10 @@ Materials used:
 -------------------
 The phone handset is cut and modified with a [3D printed part](https://github.com/nseidle/WOW_Diorama_Audio_Controller/blob/main/Models/WOWPhoneAttachment.stl).
 
+![Rear wiring](https://raw.githubusercontent.com/nseidle/WOW_Diorama_Audio_Controller/main/Story_Time_Tree_Exhibit_Electronics1.png)
+
+![Shield stackup](https://raw.githubusercontent.com/nseidle/WOW_Diorama_Audio_Controller/main/Story_Time_Tree_Exhibit_Electronics2.png)
+
 License Information
 -------------------
 The **code** is drinkware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
