@@ -19,9 +19,15 @@ Materials used:
 * [5x 3-pin JST cable](https://www.sparkfun.com/jst-to-breadboard-jumper-3-pin.html) connections to the illuminated buttons
 * [2-pin JST cable](https://www.sparkfun.com/jst-jumper-2-wire-assembly.html) connection to the LED illumination of the scene
 
+3D Printed Parts
+-------------------
+The phone handset is cut and modified with a 3D printed part:
+
+<script src="https://embed.github.com/view/3d/nseidle/WOW_Diorama_Audio_Controller/main/stl/WOWPhoneAttachment.stl"></script>
+
 License Information
 -------------------
-The **code** is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+The **code** is drinkware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
 
 Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.
 
