@@ -25,6 +25,8 @@ The phone handset is cut and modified with a 3D printed part:
 
 <script src="https://embed.github.com/view/3d/nseidle/WOW_Diorama_Audio_Controller/main/Models/WOWPhoneAttachment.stl"></script>
 
+<script src="https://embed.github.com/view/3d/skalnik/secret-bear-clip/master/stl/clip.stl"></script>
+
 License Information
 -------------------
 The **code** is drinkware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
